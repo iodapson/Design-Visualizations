@@ -1,0 +1,8 @@
+This project was made while I followed a YouTube tutorial by 'Adrian Twarog'. 
+Check out the tutorial here:https://www.youtube.com/watch?v=lg7w3Ntfqy0
+
+Find out more about the project from FrontendMentor:
+https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-mVy7o6ijV
+
+You can clone the entire project files from GitHub:
+https://github.com/Adarshshanbhag5/Sunnyside-agency-landing-page-FrontendMentorIO
